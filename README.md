@@ -1,5 +1,3 @@
 # ds-ibm-course
 
-#Testing stuff
-
-Labs for IBM's Data Science Specialization.
+This repository contains all initial labs for IBM's Data Science Specialization.
